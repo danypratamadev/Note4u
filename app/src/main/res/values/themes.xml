@@ -1,0 +1,93 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="PurpleTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="bg_view">@color/purple_50</item>
+        <item name="accent_view">@color/purple_500</item>
+        <item name="accent_dark_view">@color/purple_700</item>
+        <item name="white">@color/white</item>
+        <item name="black">@color/black</item>
+        <item name="grey_50">@color/grey_50</item>
+        <item name="grey_300">@color/grey_300</item>
+        <item name="grey_500">@color/grey_500</item>
+        <item name="grey_700">@color/grey_700</item>
+        <item name="blue_grey_50">@color/blue_grey_50</item>
+        <item name="blue_grey_300">@color/blue_grey_300</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+
+    <style name="PinkTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="bg_view">@color/pink_50</item>
+        <item name="accent_view">@color/pink_500</item>
+        <item name="accent_dark_view">@color/pink_700</item>
+        <item name="white">@color/white</item>
+        <item name="black">@color/black</item>
+        <item name="grey_50">@color/grey_50</item>
+        <item name="grey_300">@color/grey_300</item>
+        <item name="grey_500">@color/grey_500</item>
+        <item name="grey_700">@color/grey_700</item>
+        <item name="blue_grey_50">@color/blue_grey_50</item>
+        <item name="blue_grey_300">@color/blue_grey_300</item>
+        <item name="android:statusBarColor">@color/pink_700</item>
+    </style>
+
+    <style name="BlueTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="bg_view">@color/blue_50</item>
+        <item name="accent_view">@color/blue_500</item>
+        <item name="accent_dark_view">@color/blue_700</item>
+        <item name="white">@color/white</item>
+        <item name="black">@color/black</item>
+        <item name="grey_50">@color/grey_50</item>
+        <item name="grey_300">@color/grey_300</item>
+        <item name="grey_500">@color/grey_500</item>
+        <item name="grey_700">@color/grey_700</item>
+        <item name="blue_grey_50">@color/blue_grey_50</item>
+        <item name="blue_grey_300">@color/blue_grey_300</item>
+        <item name="android:statusBarColor">@color/blue_700</item>
+    </style>
+
+    <style name="GreenTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="bg_view">@color/green_50</item>
+        <item name="accent_view">@color/green_500</item>
+        <item name="accent_dark_view">@color/green_700</item>
+        <item name="white">@color/white</item>
+        <item name="black">@color/black</item>
+        <item name="grey_50">@color/grey_50</item>
+        <item name="grey_300">@color/grey_300</item>
+        <item name="grey_500">@color/grey_500</item>
+        <item name="grey_700">@color/grey_700</item>
+        <item name="blue_grey_50">@color/blue_grey_50</item>
+        <item name="blue_grey_300">@color/blue_grey_300</item>
+        <item name="android:statusBarColor">@color/green_700</item>
+    </style>
+
+    <style name="OrangeTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="bg_view">@color/orange_50</item>
+        <item name="accent_view">@color/orange_500</item>
+        <item name="accent_dark_view">@color/orange_700</item>
+        <item name="white">@color/white</item>
+        <item name="black">@color/black</item>
+        <item name="grey_50">@color/grey_50</item>
+        <item name="grey_300">@color/grey_300</item>
+        <item name="grey_500">@color/grey_500</item>
+        <item name="grey_700">@color/grey_700</item>
+        <item name="blue_grey_50">@color/blue_grey_50</item>
+        <item name="blue_grey_300">@color/blue_grey_300</item>
+        <item name="android:statusBarColor">@color/orange_700</item>
+    </style>
+
+    <style name="BrownTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="bg_view">@color/brown_50</item>
+        <item name="accent_view">@color/brown_500</item>
+        <item name="accent_dark_view">@color/brown_700</item>
+        <item name="white">@color/white</item>
+        <item name="black">@color/black</item>
+        <item name="grey_50">@color/grey_50</item>
+        <item name="grey_300">@color/grey_300</item>
+        <item name="grey_500">@color/grey_500</item>
+        <item name="grey_700">@color/grey_700</item>
+        <item name="blue_grey_50">@color/blue_grey_50</item>
+        <item name="blue_grey_300">@color/blue_grey_300</item>
+        <item name="android:statusBarColor">@color/brown_700</item>
+    </style>
+
+</resources>

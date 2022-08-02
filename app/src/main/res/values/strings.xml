@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note4u</string>
+    <string name="buat_catatan_baru">Buat Catatan Baru</string>
+    <string name="add_new_note">AddNewNote</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/note_card"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/back_note_card"
+    android:padding="16dp"
+    android:weightSum="10">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="9"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/note_title_card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Judul Catatan"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:id="@+id/note_date_card"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Isi dari Catatan"
+            android:layout_marginTop="5dp"
+            android:maxLines="3"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_weight="1"
+        android:layout_gravity="center|end"
+        android:src="@drawable/round_chevron_right_black_36dp"/>
+
+</LinearLayout>

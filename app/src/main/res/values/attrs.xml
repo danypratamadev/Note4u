@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ds">
+
+        <attr name="bg_view" format="color" />
+        <attr name="accent_view" format="color"/>
+        <attr name="accent_dark_view" format="color"/>
+        <attr name="white" format="color"/>
+        <attr name="black" format="color"/>
+        <attr name="grey_50" format="color"/>
+        <attr name="grey_300" format="color"/>
+        <attr name="grey_500" format="color"/>
+        <attr name="grey_700" format="color"/>
+        <attr name="blue_grey_50" format="color"/>
+        <attr name="blue_grey_300" format="color"/>
+
+    </declare-styleable>
+
+</resources>
